@@ -48,13 +48,15 @@ Clone the repository:
 
 ```plaintext
 git clone https://github.com/your-github-username/your-repo-name.git
-Navigate to the project directory:
 ```
+Navigate to the project directory:
+
 
 ```plaintext
 cd your-repo-name
-Install dependencies:
 ```
+Install dependencies:
+
 
 ```plaintext
 npm install
