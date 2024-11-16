@@ -34,7 +34,10 @@ src/
 ├── assets/       # Static assets (e.g., images, icons)
 ├── App.jsx       # Main application entry point
 └── index.css     # Global CSS styles
-🚀 Getting Started
+```
+
+## 🚀 Getting Started
+
 Follow these steps to run the project locally:
 
 Prerequisites
@@ -43,51 +46,61 @@ npm or yarn
 Installation
 Clone the repository:
 
-bash
-Copy code
+```plaintext
 git clone https://github.com/your-github-username/your-repo-name.git
 Navigate to the project directory:
+```
 
-bash
-Copy code
+```plaintext
 cd your-repo-name
 Install dependencies:
+```
 
-bash
-Copy code
+```plaintext
 npm install
+```
+
 # or
+```plaintext
 yarn install
+```
 Start the development server:
 
-bash
-Copy code
+```plaintext
 npm run dev
 # or
 yarn dev
+```
 Open your browser and visit:
 
 arduino
-Copy code
+```plaintext
 http://localhost:5173
+```
 
-📚 What I've Learned
+## 📚 What I've Learned
+
 Setting up a project with Vite for fast development.
 Creating dynamic components with React.js.
 Managing component state with React Hooks like useState and useEffect.
 Styling components using CSS/Tailwind CSS.
 Debugging and improving performance of React applications.
 
-📜 Future Plans
+
+## 📜 Future Plans
+
 Add more components like modals, carousels, and form validation.
 Integrate state management libraries like Redux or Context API.
 Build a small project using all these components (e.g., a dashboard or interactive app).
 Deploy the project to Vercel or Netlify.
 
-🤝 Contribution
+
+## 🤝 Contribution
+
 This is a personal learning project, but I'm open to feedback and suggestions. Feel free to fork this repository, create issues, or share ideas to improve it!
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you for checking out my project! 😊
